@@ -5,5 +5,8 @@ a{
     color: burlywood;
 }
 img{
-    width: 500px;
+   width: 500px;
+}
+td,tr,table{
+border: 3px solid sandybrown;
 }

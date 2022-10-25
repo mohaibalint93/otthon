@@ -4,9 +4,25 @@ body{
 a{
     color: burlywood;
 }
-img{
+.dino{
    width: 500px;
 }
 td,tr,table{
-border: 3px solid sandybrown;
+border: 3px solid rgb(86, 209, 172);
+color: rgba(0, 92, 116, 0.918);
+}
+table{
+    width: 500px;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+    empty-cells: hide;
+    
+}
+h1{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.kicsi{
+    height: 15px;
 }

@@ -1,12 +1,13 @@
 body{
     background-image: url(images/animals/hatter.jpg);
-   
+   text-align: center;
 }
 a{
-    color: burlywood;
+    color: darkred;
 }
 .dino{
    width: 500px;
+   
 }
 td,tr,table{
 border: 3px solid rgb(86, 209, 172);
@@ -18,7 +19,7 @@ table{
     background-color: aliceblue;
     padding: 10px;
     empty-cells: hide;
-    
+    margin: auto;
 }
 h1{
     text-decoration: underline;
@@ -27,3 +28,4 @@ h1{
 .kicsi{
     height: 15px;
 }
+
